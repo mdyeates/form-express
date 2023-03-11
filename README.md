@@ -25,7 +25,7 @@
       <a href="https://github.com/mdyeates/form-express"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://mdyeates.github.io/form-express/">View Live Website</a>
+      <a href="https://form-express.onrender.com">View Live Website</a>
       ·
       <a href="https://github.com/mdyeates/form-express/issues">Report Bug</a>
       ·
@@ -64,7 +64,7 @@
   
   ### Screenshot
   
-  [![Newsletter Signup Screen Shot][product-screenshot]](https://mdyeates.github.io/form-express/)
+  [![Newsletter Signup Screen Shot][product-screenshot]](https://form-express.onrender.com)
   
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -119,7 +119,6 @@ To get a local copy up and running follow these simple example steps.
   <p align="right"><a href="#readme-top">back to top</a></p>
   
   <!-- USAGE EXAMPLES -->
-  
 
 
   <!-- LICENSE -->
