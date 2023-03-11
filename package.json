@@ -1,9 +1,10 @@
 {
   "name": "newsletter-signup",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first app using Express",
   "main": "app.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
